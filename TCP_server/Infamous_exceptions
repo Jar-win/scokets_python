@@ -1,0 +1,3 @@
+socket.error: [Errno 107] Transport endpoint is not connected
+  When socket was expecting some data but was closed form the client's side
+
